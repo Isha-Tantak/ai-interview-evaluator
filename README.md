@@ -128,3 +128,4 @@ The application will launch at: [http://localhost:5173](http://localhost:5173)
 
 Screenshots:
 <img width="1859" height="793" alt="Image" src="https://github.com/user-attachments/assets/2728e50f-c011-48e0-aea1-38dad023b4e5" />
+<img width="1779" height="842" alt="Image" src="https://github.com/user-attachments/assets/26cc87e7-b612-4958-a45e-09abc92775ea" />
