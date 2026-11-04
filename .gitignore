@@ -1,0 +1,17 @@
+# Virtual environments (anywhere in the project)
+venv/
+**/venv/
+.venv/
+**/__pycache__/
+
+# Node modules
+node_modules/
+**/node_modules/
+dist/
+
+# Database files
+*.db
+*.sqlite3
+
+# Environment secrets
+*.env
