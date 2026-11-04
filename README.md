@@ -125,3 +125,6 @@ The application will launch at: [http://localhost:5173](http://localhost:5173)
 - Private endpoints require a valid Bearer JWT.
 - CORS policy restricts unverified origins in production.
 - Model prompts are structured for strict JSON output parsing.
+
+Screenshots:
+<img width="1859" height="793" alt="Image" src="https://github.com/user-attachments/assets/2728e50f-c011-48e0-aea1-38dad023b4e5" />
